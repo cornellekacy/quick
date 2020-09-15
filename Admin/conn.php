@@ -1,0 +1,1 @@
+<?php $link = mysqli_connect("localhost", "medidazu_quickuser", "%&3S$4!6(192", "medidazu_quick"); ?>
